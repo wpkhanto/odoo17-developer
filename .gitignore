@@ -1,4 +1,8 @@
-odoo
+odoo/
+odoo.conf
 
-.venv
-.idea
+build/
+dist/
+
+.venv/
+.idea/

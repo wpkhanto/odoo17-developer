@@ -1,0 +1,1 @@
+"C:\Python310" python setup/odoo --config odoo.conf
