@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="my_line_auth_module.line_login_button">
+        <!-- Button to trigger LINE login -->
+    </t>
+    <t t-name="my_line_auth_module.line_callback">
+        <!-- LINE login callback page -->
+    </t>
+</templates>
