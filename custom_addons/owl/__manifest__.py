@@ -7,7 +7,10 @@
     'description': """OWL Tutorial""",
     'category': 'OWL',
     'depends': ['base'],
-    'data': [],
+    'data': [
+        'security/ir.model.access.csv',
+        'views/todo_list.xml',
+    ],
     'demo': [],
     'installable': True,
     'application': True,
